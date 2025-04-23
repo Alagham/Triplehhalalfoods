@@ -1,10 +1,10 @@
 import React from 'react'
+import Header from "./components/header/header"
 
 const App = () => {
   return (
     <div>
-      <h1>Welcome to Triple H' Halal foods</h1>
-      <h5>Page under maintainance...............</h5>
+      <Header/>
     </div>
   )
 }
